@@ -47,8 +47,8 @@ myForm.addEventListener("submit", function (e) {
     method: "GET",
     withCredentials: true,
     headers: {
-      "x-rapidapi-key": "395feb7c3emshb4a91900aa9f376p161dc0jsn52d04d06ce2e",
-      "x-rapidapi-host": "covid1910.p.rapidapi.com",
+      // "x-rapidapi-key": "395feb7c3emshb4a91900aa9f376p161dc0jsn52d04d06ce2e",
+      // "x-rapidapi-host": "covid1910.p.rapidapi.com",
       useQueryString: true,
     },
   })
